@@ -22,11 +22,11 @@ msgstr "Demo twine."
 
 # base translation: "This is a demo"
 msgid "demo"
-msgstr "This is a demo"
+msgstr "これはデモ"
 
 # base translation: "Demo twine."
 msgid "new_string"
-msgstr "Demo twine."
+msgstr "デモツイン。"
 
 # --------- General ---------#
 # base translation: "Yes"
@@ -35,13 +35,13 @@ msgstr "Yes"
 
 # base translation: "No"
 msgid "no"
-msgstr "No"
+msgstr "いいえ"
 
 # --------- Errors ---------#
 # base translation: "The file '%@' could not be found."
 #. An error describing when a path on the filesystem could not be found.
 msgid "path_not_found_error"
-msgstr "The file '%@' could not be found."
+msgstr "ファイル '％@'は見つかりませんでした。"
 
 # base translation: "The network is currently unavailable."
 #. An error describing when the device can not connect to the internet.
