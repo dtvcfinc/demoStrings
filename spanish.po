@@ -20,6 +20,10 @@ msgstr ""
 msgid "app_name"
 msgstr "Demo twine."
 
+# base translation: "This is a new string."
+msgid "this_is_a_new_string"
+msgstr "Esto es una nueva cadena."
+
 # base translation: "This is a demo"
 msgid "demo"
 msgstr "Esto es una demo"
