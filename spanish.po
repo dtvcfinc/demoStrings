@@ -50,11 +50,11 @@ msgstr "No se encontró el archivo '%@'."
 # base translation: "The network is currently unavailable."
 #. An error describing when the device can not connect to the internet.
 msgid "network_unavailable_error"
-msgstr "La red no está disponible."
+msgstr "La red no está disponible o tal vez si."
 
 # base translation: "Dismiss"
 msgid "dismiss_error"
-msgstr "Yes"
+msgstr "Si"
 
 # --------- Escaping Example ---------#
 # base translation: ", "
