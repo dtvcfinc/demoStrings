@@ -18,7 +18,7 @@ msgstr ""
 # --------- Android ---------#
 # base translation: "Demo twine."
 msgid "app_name"
-msgstr "Demo twine."
+msgstr "Demo twine. "
 
 # base translation: "This is a new string."
 msgid "this_is_a_new_string"
@@ -26,11 +26,11 @@ msgstr "Esto es una nueva cadena."
 
 # base translation: "This is a demo"
 msgid "demo"
-msgstr "Esto es una demo"
+msgstr "Esto es una demo."
 
 # base translation: "Demo twine."
 msgid "new_string"
-msgstr "Esto es una demo"
+msgstr "Demo twine."
 
 # --------- General ---------#
 # base translation: "Yes"
@@ -45,16 +45,16 @@ msgstr "No"
 # base translation: "The file '%@' could not be found."
 #. An error describing when a path on the filesystem could not be found.
 msgid "path_not_found_error"
-msgstr "No se encontró el archivo '%@'."
+msgstr "No se ha encontrado el archivo '%@'."
 
 # base translation: "The network is currently unavailable."
 #. An error describing when the device can not connect to the internet.
 msgid "network_unavailable_error"
-msgstr "La red no está disponible o tal vez si."
+msgstr "The network is currently unavailable."
 
 # base translation: "Dismiss"
 msgid "dismiss_error"
-msgstr "Si"
+msgstr "Yes"
 
 # --------- Escaping Example ---------#
 # base translation: ", "
